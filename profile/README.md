@@ -26,7 +26,6 @@
 | **서정우** | APP | [@SINDE2](https://github.com/SINDE2) |
 | **최상훈** | APP | [@shun010116](https://github.com/shun010116) |
 | **표민우** | WEB | [@Pyo-admin](https://github.com/Pyo-admin) |
-| **박찬정** | WEB | [@pcj0310](https://github.com/pcj0310) |
 
 ---
 
