@@ -9,9 +9,8 @@
 - **Target**: 자체 개발한 뱅킹 서비스 (Web & Android App)
 - **Focus**:
   - Secure Coding: 개발 단계에서의 보안 가이드 준수 여부 확인
-  - Vulnerability Diagnosis: OWASP Top 10 및 금융권 특화 취약점 진단
-  - Scenario Hacking: 비정상 이체, 개인정보 탈취 등 실무형 공격 시나리오 수행
-
+  - Vulnerability Diagnosis: 전자금융기반시설 보안 취약점 평가기준 안내서 및 핀테크서비스 취약점 점검 안내서
+  - Scenario Hacking: 공급망 공격, 자동화 도구, 보이스피싱 등 실무형 공격 시나리오 수행
 ---
 
 ### 👥 Members
