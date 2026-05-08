@@ -24,7 +24,6 @@
 | **손지선** | APP | [@riseonaci-sonthings](https://github.com/riseonaci-sonthings) |
 | **성준모** | WEB | [@modev0101](https://github.com/modev0101) |
 | **표민우** | WEB | [@Pyo-admin](https://github.com/Pyo-admin) |
-|
 
 ---
 
